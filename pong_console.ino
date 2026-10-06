@@ -15,7 +15,7 @@
 
 #define PLAYER_2_CLK 3  // hardware interrupt pin
 #define PLAYER_2_DT 16
-#define PLAYER_2_BUTTON 9
+#define PLAYER_2_BUTTON 15
 
 
 #define SCREEN_WIDTH 128
